@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../muniparush"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
