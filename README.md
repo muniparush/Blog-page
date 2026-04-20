@@ -95,7 +95,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, and 
 </a>
 
 <a href="https://twitter.com/Code_Like_MUNIPARUSH">
-<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+<img src="https://img.shields.io/badge/Twitter-CodeLinked-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
 <a href="mailto:kottemuniparushkotte@gmail.com">
@@ -106,8 +106,8 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, and 
 <img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/aman08_stars">
-<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
+<a href="https://www.hackerrank.com/profile/muniparush_stars">
+<img src="https://img.shields.io/badge/HackerRank-muniparush-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </div>
